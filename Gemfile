@@ -12,7 +12,7 @@ gem "sqlite3", "~> 1.7"
 # gem "bcrypt", "~> 3.1.7"
 
 gem "rack-cors"
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
 
 gem "devise-jwt"
 
